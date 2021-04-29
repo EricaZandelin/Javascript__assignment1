@@ -15,7 +15,6 @@ console.log(`${triangleTwo} is bigger than ${triangleOne}
  and therefore triangle two is biggest`);
 
 
-
 // Case 2
 
 if (triangleThree === triangleFour) {
@@ -30,7 +29,6 @@ var triangleFour = (20.3 * 16.5) / 2;
 
 console.log(`${triangleThree} and ${triangleFour} are equal numbers, therefore 
 none are bigger then the other`);
-
 
 
 // Case 3
